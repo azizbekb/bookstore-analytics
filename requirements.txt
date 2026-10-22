@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyarrow
+pyyaml
+altair
+google-genai
